@@ -15,26 +15,24 @@ pip install requirements.txt
 All the data for experiments can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1bLnuXXj0fGOjxzkPeCBybAkFgsqIVPYU?usp=drive_link).
 
 ### Reproduction
-To reproduce the experiments in the paper, please run
+To reproduce the experiments of the proposed method, please run
 ```
-cd experiments/
-bash run_experiments.sh
+cd Codes/
+python Archive_Model_ODE_OPT_Grad.py
+```
+To reproduce the experiments of generating initial models and comparisons, please run
+```
+cd Codes/
+python Archive_Model_ODE_then_OPT
 ```
 Note: There is NO multi-GPU/parallelling training in our codes. 
 
-The results(models) and logs will be saved into new folders i.e. ```results/``` and ```logs/``` under ```experiments/```.
+The models and logs are saved in fold ```Results/Archive_NNfile/```, and the case results are saved in ```Results/Archive_Results/```.
 
-Then, go into ```experiments/02-post_analysis.ipynb``` for post analysis, including the post-coordination for benchmarks and the comparison of the total consistency error. Please replace the variable ```pth``` in the notebook.
-
-If you also want to have the same figures in the paper, please refer to ```experiments/03-plot.ipynb```.
-
-### Example
-An example of seamless multi-resolution forecasts on wind power from Hierarchical Neural Laplace(HNL) and benchmarks.
-
-![image info](./figs/display.png)
+Please refer to ```readme.md``` in each fold for more details.
 
 ## Citation
 
 
 ## Acknowledgments
-Package ```torchlapalace/``` is modified based on the open code of [Neural Laplace](https://github.com/samholt/NeuralLaplace). The rapid development of this work would not have been possible without this open-souce package. 
+Package ```Codes/torchdiffeq1/``` is modified based on the open code of [Neural ODE](https://github.com/rtqichen/torchdiffeq). The rapid development of this work would not have been possible without this open-souce package. 
