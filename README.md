@@ -38,6 +38,8 @@ An example of seamless multi-resolution forecasts on wind power from Hierarchica
 
 ![image info](./figs/display.png)
 
+## Citation
+
 
 ## Acknowledgments
 Package ```torchlapalace/``` is modified based on the open code of [Neural Laplace](https://github.com/samholt/NeuralLaplace). The rapid development of this work would not have been possible without this open-souce package. 
