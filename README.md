@@ -12,7 +12,7 @@ pip install requirements.txt
 
 ## Experiments
 ### Data
-All the data for experiments are saved in ```datasets/```. In ```experiments/01-EDA.ipynb```, we show the basic plots on both energy data and weather forecasts data.
+All the data for experiments can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1bLnuXXj0fGOjxzkPeCBybAkFgsqIVPYU?usp=drive_link).
 
 ### Reproduction
 To reproduce the experiments in the paper, please run
