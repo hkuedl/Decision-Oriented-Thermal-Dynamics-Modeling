@@ -1,14 +1,9 @@
 # Decision-Oriented-Thermal-Dynamics-Modeling
-Code for Paper "Decision-Oriented Modeling of Thermal Dynamics within Buildings".
-# Seamless and multi-resolution energy forecasting
 
-Codes for the paper "Seamless and multi-resolution energy forecasting". 
-
-Authors: Chenxi Wang, Pierre Pinson, Yi Wang
-
+Codes for Paper "Decision-Oriented Modeling of Thermal Dynamics within Buildings".
 
 ## Requirements
-Python version: 3.8.10
+Python version: 3.8.17
 
 The must-have packages can be installed by running
 ```
