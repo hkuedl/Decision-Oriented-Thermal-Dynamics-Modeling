@@ -23,7 +23,7 @@ python Archive_Model_ODE_OPT_Grad.py
 To reproduce the experiments of generating initial models and comparisons, please run
 ```
 cd Codes/
-python Archive_Model_ODE_then_OPT
+python Archive_Model_ODE_then_OPT.py
 ```
 Note: There is NO multi-GPU/parallelling training in our codes. 
 
