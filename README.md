@@ -27,7 +27,7 @@ python Archive_Model_ODE_then_OPT.py
 ```
 Note: There is NO multi-GPU/parallelling training in our codes. 
 
-The models and logs are saved in fold ```Results/Archive_NNfile/```, and the case results are saved in ```Results/Archive_Results/```.
+The models and logs are saved in ```Results/Archive_NNfile/```, and the case results are saved in ```Results/Archive_Results/```.
 
 Please refer to ```readme.md``` in each fold for more details.
 
