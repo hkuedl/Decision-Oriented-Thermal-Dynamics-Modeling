@@ -16,7 +16,7 @@ pip install requirements.txt
 
 ## Experiments
 ### Data
-All the data for experiments can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1bLnuXXj0fGOjxzkPeCBybAkFgsqIVPYU?usp=drive_link).
+All the data for experiments can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1bLnuXXj0fGOjxzkPeCBybAkFgsqIVPYU?usp=sharing).
 
 ### Reproduction
 To reproduce the experiments of the proposed method, please run
