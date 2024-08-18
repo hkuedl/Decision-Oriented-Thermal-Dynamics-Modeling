@@ -1,6 +1,10 @@
 # Decision-Oriented-Thermal-Dynamics-Modeling
 
+_This work proposes a decision-oriented modeling method for building thermal dynamics. The model parameters are updated through an end-to-end gradient-based training strategy wherein the downstream optimization is used as the loss function._
+
 Codes for Paper "Decision-Oriented Modeling of Thermal Dynamics within Buildings".
+
+Authors: Xueyuan Cui, Jean-François Toubeau, François Vallée, and Yi Wang.
 
 ## Requirements
 Python version: 3.8.17
@@ -35,4 +39,4 @@ Please refer to ```readme.md``` in each fold for more details.
 
 
 ## Acknowledgments
-Package ```Codes/torchdiffeq1/``` is modified based on the open code of [Neural ODE](https://github.com/rtqichen/torchdiffeq). The rapid development of this work would not have been possible without this open-souce package. 
+Package ```Codes/torchdiffeq1/``` is modified based on the open code of [Neural ODE](https://github.com/rtqichen/torchdiffeq). The rapid development of this work would not have been possible without this open-source package. 
