@@ -36,6 +36,16 @@ The models and logs are saved in ```Results/Archive_NNfile/```, and the case res
 Please refer to ```readme.md``` in each fold for more details.
 
 ## Citation
+@ARTICLE{10638763,
+  author={Cui, Xueyuan and Toubeau, Jean-François and Vallée, François and Wang, Yi},
+  journal={IEEE Transactions on Smart Grid}, 
+  title={Decision-Oriented Modeling of Thermal Dynamics Within Buildings}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Buildings;Mathematical models;Optimization;Training;Task analysis;Costs;Accuracy;Building energy management;thermal dynamics;thermostatically controlled loads;neural dynamic equations},
+  doi={10.1109/TSG.2024.3445574}}
 
 
 ## Acknowledgments
