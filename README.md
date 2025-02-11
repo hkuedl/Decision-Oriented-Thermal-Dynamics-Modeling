@@ -41,10 +41,10 @@ Please refer to ```readme.md``` in each fold for more details.
   author={Cui, Xueyuan and Toubeau, Jean-François and Vallée, François and Wang, Yi},
   journal={IEEE Transactions on Smart Grid}, 
   title={Decision-Oriented Modeling of Thermal Dynamics Within Buildings}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
+  year={2025},
+  volume={16},
+  number={1},
+  pages={369-382},
   keywords={Buildings;Mathematical models;Optimization;Training;Task analysis;Costs;Accuracy;Building energy management;thermal dynamics;thermostatically controlled loads;neural dynamic equations},
   doi={10.1109/TSG.2024.3445574}}
 ```
